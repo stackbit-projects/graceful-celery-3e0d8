@@ -27,5 +27,6 @@
             "url": "/faq",
             "style": "link"
         }
-    ]
+    ],
+    "domain": "https://graceful-celery-3e0d8.netlify.app"
 }
